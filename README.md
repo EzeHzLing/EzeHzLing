@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @EzeHzLing! 
 - 👀 I’m interested in coding, programming as a beginner. Looking to learn data visualization and analysis.  
-- 🌱 I’m currently learning basic programming, Python. 
+- 🌱 I’m currently learning basic programming, Javascript, Python. 
 - 📫 How to reach me: email me at ezehzling@gmail.com 
 
 <!---
